@@ -1,0 +1,36 @@
+img src{
+	display:inline-block;
+	vertical-align:top;
+}
+body{
+	background-color:#1927C6;
+	color: white;
+	
+}
+body{
+	font-family:Tahoma;
+}
+h1{
+	text-align: center;
+	
+}
+table{
+	width:100%;
+}
+th{
+	border:solid;
+}
+h3{
+	text-align:center;
+}
+a{
+	color: #E7F4F8;
+	text-decoration:none;
+}
+a:hover{
+	color:red;
+}
+h4{
+	text-align: center;
+	font-size: larger;
+}
